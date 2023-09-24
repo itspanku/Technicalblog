@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.com.onetooneuni.dao&apos; to &apos;org.com.onetooneuni.dto&apos;&#x0D;&#x0A;- Original project: &apos;One_To_One_Uni&apos;&#x0D;&#x0A;- Original element: &apos;One_To_One_Uni/src/main/java/org.com.onetooneuni.dao&apos;&#x0D;&#x0A;- Renamed element: &apos;One_To_One_Uni/src/main/java/org.com.onetooneuni.dto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.com.onetooneuni.dao&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.com.onetooneuni.dao" name="org.com.onetooneuni.dto" qualified="false" references="true" stamp="1693813000352" textual="false" version="1.0"/>
+</session>

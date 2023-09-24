@@ -1,0 +1,13 @@
+package org.jsp.DepartmentEmployee.controller;
+
+import java.util.Scanner;
+
+import org.jsp.DepartmentEmployee.dao.DepartmentDao;
+import org.jsp.DepartmentEmployee.dao.EmployeeDao;
+
+public class Dept_Emp_Controller {
+	static Scanner sc=new Scanner(System.in);
+	static DepartmentDao deptDao=new DepartmentDao();
+	static EmployeeDao empDao=new EmployeeDao();
+
+}

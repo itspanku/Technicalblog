@@ -1,0 +1,5 @@
+package org.jsp.DepartmentEmployee.dto;
+
+public class Employee {
+
+}
